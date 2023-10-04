@@ -7,7 +7,7 @@ apimock=(function(){
 	mockdata["johnconnor"]=	[{author:"johnconnor","points":[{"x":150,"y":120},{"x":215,"y":115}],"name":"house"},
 	 {author:"johnconnor","points":[{"x":340,"y":240},{"x":15,"y":215}],"name":"gear"},
      {author:"johnconnor","points":[{"x":553,"y":777},{"x":150,"y":215}],"name":"floor"},
-     {author:"johnconnor","points":[{"x":45,"y":674},{"x":510,"y":790}],"name":"table"} ];
+     {author:"johnconnor","points":[{"x":45,"y":674},{"x":499,"y":100}],"name":"table"} ];
 	mockdata["maryweyland"]=[{author:"maryweyland","points":[{"x":140,"y":140},{"x":115,"y":115}],"name":"house2"},
 	 {author:"maryweyland","points":[{"x":140,"y":140},{"x":115,"y":115}],"name":"gear2"} ,
      {author:"maryweyland","points":[{"x":487,"y":540},{"x":423,"y":123}],"name":"floor2"},
