@@ -197,3 +197,8 @@
     <br>
 
 14. Revise la [documentación y ejemplos de los estilos de Bootstrap](https://v4-alpha.getbootstrap.com/examples/) (ya incluidos en el ejercicio), agregue los elementos necesarios a la página para que sea más vistosa, y más cercana al mock dado al inicio del enunciado.
+
+    <br>
+
+    ![](img/pfinal.png)
+    <br>
